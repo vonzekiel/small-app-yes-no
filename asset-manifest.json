@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/small-app-yes-no/static/css/main.a2aae87b.css",
+    "main.js": "/small-app-yes-no/static/js/main.994c61d2.js",
+    "index.html": "/small-app-yes-no/index.html",
+    "main.a2aae87b.css.map": "/small-app-yes-no/static/css/main.a2aae87b.css.map",
+    "main.994c61d2.js.map": "/small-app-yes-no/static/js/main.994c61d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2aae87b.css",
+    "static/js/main.994c61d2.js"
+  ]
+}
